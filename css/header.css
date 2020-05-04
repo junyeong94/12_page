@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+/* header section */
+        
+.wrap{width:1200px; margin:0 auto;}
+.main_logo{height:70px; background:white;padding-top:5px;text-align:center;}
+.sub_menu{height:60px;background:#2e9a45; text-align:center; padding:0 120px}
+.sub_menu li{float:left; margin-left:50px; padding-top:16px;}
+.sub_menu h2 a{font-size:24px; font-weight:bold; color:white;}

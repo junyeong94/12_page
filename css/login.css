@@ -1,0 +1,20 @@
+@charset 'utf-8';
+
+.login{display:none; position:fixed; width:100%; height:100%; z-index:5; background:rgba(255,255,255,0.5);}
+        .login_box{width:100%;height:100%; padding:15px;}
+        .login_box p{padding-bottom:20px; font-size:14px;}
+        fieldset{border:2px solid black; width:550px;position:fixed;left:50%;top:50%;background-image:url('../images/login_back.jpg'); 
+        transform: translate(-50%,-50%);}
+        fieldset .x_box{cursor:pointer;float:right; margin-right:15px;width:20px; height:20px; background:white; text-align: center;}
+        legend{font-size:1.8em; color:#333; margin-left:10px;} 
+        .login_box>div.clearfix{margin-bottom:20px;}
+        form{display: inline-block;}
+        .sec_2,table{float:left;}
+        input{border:1px solid #999;}
+        input[id="id"]{margin-bottom:2px;}
+        .login_box img{margin-left:30px;}
+        .sec_2{margin:30px 40px 0 30px;}
+        label[for="id"]{letter-spacing:0.33em;}
+        button{float:right; width:80px; height:45px; margin-top:30px; 
+            background:linear-gradient(#666 0%, #999 50%, #333 50%, #666 100%); color:white;}
+        .login_box>ul>li>a{font-size:14px;}

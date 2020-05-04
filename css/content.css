@@ -1,0 +1,32 @@
+@charset 'utf-8';
+
+/* menu section */
+.menu{margin:20px 0;}
+.menu li{float:left; text-align: center; height:200px; background:#2e9a45; transition:0.3s;}
+.menu li:hover{background: #0071bc;}
+.menu img{width:80px; height:90px; margin-top:36px; margin-bottom:17px;}
+.menu h2{font-size:28px; font-weight:bold; color:white;}
+
+
+/* review section */
+.main_content{margin-bottom:60px;}
+.main_content div{float:left;}
+.review{border-top:2px solid #2e9a45;}
+.review h2{padding:8px 0;font-size:28px; color:#2e9a45;  font-weight:bold;border-bottom:2px solid #2e9a45;}
+.review ul{padding:20px 10px;}
+.review li{float:left; margin-right:40px; margin-bottom:46px;; text-align:center;}
+.review li:nth-child(3),.review li:nth-child(6){margin-right:0;}
+.review li:nth-child(4),.review li:nth-child(5),.review li:nth-child(6){margin-bottom:0;}
+.review li h3{font-weight:bold;color:#333;}
+.review li p{color:#666;}
+
+/* rank section */
+.rank_content{border-top:2px solid #0071bc;}
+.rank_content h2{padding:8px 0;font-size:28px; color:#0071bc;  font-weight:bold;border-bottom:2px solid #0071bc;}
+.rank_content .rank{padding:20px 10px;}
+.rank ul{float:left;}
+.rank div{display: inline; font-weight:bold; color:#333;text-align:center; border-bottom:1px solid #ccc; padding:5px 0;}
+.rank li:first-child div{padding:0;}
+.rank .num{width:100px;}
+.rank .down{width:230px;}
+.rank .mon{width:230px;}

@@ -1,0 +1,12 @@
+@charset 'utf-8';
+
+/* pop_up section */
+.pop_up{display:none;position:fixed; left:50%;top:63%; transform: translate(-50%,-50%); z-index:10;width:1200px; box-sizing: border-box;height:100px; background:white; border:1px solid #2e9a45;}
+.pop_up ul{margin:10px;}
+.pop_up li{float:left;}
+.pop_up li:last-child{margin-top:36px;}
+.pop_up li:last-child button{width:80px; height:25px; background:#2e9a45; color:white;}
+.pop_up li .g_name h4{font-weight:bold; font-size:22px; width:230px;color:#2e9a45; text-align: center;}
+.pop_up li select{width:230px; margin:12px 20px 22px 0;border:1px solid #333;  font-size:18px; color:#333;}
+.pop_up p{cursor: pointer;float:right;width:20px; height:20px;margin-right:10px;background:#ccc;text-align: center;}
+span{cursor:pointer;position:absolute; left:0; top:0; width:100%; height:100%;text-indent:-3000px;}

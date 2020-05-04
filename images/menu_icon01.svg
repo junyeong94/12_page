@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#B3B3B3;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+</style>
+<rect x="5" y="5" class="st0" width="40" height="40"/>
+<g>
+	<g>
+		<rect x="12.99" y="9.97" class="st1" width="28.2" height="34.38"/>
+		<line class="st2" x1="16.94" y1="17.49" x2="38.33" y2="17.2"/>
+		<line class="st2" x1="17.19" y1="24.2" x2="38.08" y2="23.88"/>
+		<line class="st2" x1="18.13" y1="30.92" x2="37.13" y2="30.66"/>
+		<line class="st2" x1="17.96" y1="37.64" x2="37.31" y2="37.64"/>
+	</g>
+	<g>
+		<path class="st1" d="M14.29,13.39v-2.91c0.82-0.45,1.37-1.26,1.37-2.2c0-1.42-1.26-2.58-2.82-2.58s-2.82,1.15-2.82,2.58
+			c0,0.94,0.55,1.75,1.37,2.2v2.91H9.08v9.55h18.8v-9.55H14.29z"/>
+		<ellipse class="st1" cx="19.81" cy="18.41" rx="0.94" ry="0.86"/>
+		<ellipse class="st1" cx="22.83" cy="15.96" rx="0.94" ry="0.86"/>
+		<ellipse class="st1" cx="22.83" cy="20.91" rx="0.94" ry="0.86"/>
+		<ellipse class="st1" cx="25.67" cy="18.41" rx="0.94" ry="0.86"/>
+	</g>
+</g>
+</svg>

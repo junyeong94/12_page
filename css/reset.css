@@ -1,0 +1,32 @@
+@charset 'utf-8';
+
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700,800|Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap&subset=korean');
+
+*{margin:0;border:none;padding:0;font-family: 'Nanum Gothic', sans-serif;}
+
+div,span,h1,h2,h3,h4,h5,h6,p,header,section,footer,article,nav,address,aside,ul,ol,li,img,input
+,select,option,button,form,a,body{margin:0; border:none; padding:0; font-size:16px; vertical-align:baseline;
+font-weight:400; color:#616161; box-sizing:border-box;}
+
+ul,ol,li{list-style:none;}
+
+a{text-decoration:none;}
+
+img{vertical-align:bottom;}
+
+.clearfix::after{content:'';display:block;clear: both;}
+
+.row{width:1180px; margin:0 auto;}
+
+.col01{width:80px; margin:0 10px;}
+.col02{width:180px; margin:0 10px;}
+.col03{width:280px; margin:0 10px;}
+.col04{width:380px; margin:0 10px;}
+.col05{width:480px; margin:0 10px;}
+.col06{width:580px; margin:0 10px;}
+.col07{width:680px; margin:0 10px;}
+.col08{width:780px; margin:0 10px;}
+.col09{width:880px; margin:0 10px;}
+.col10{width:980px; margin:0 10px;}
+.col11{width:1080px; margin:0 10px;}
+.col12{width:1180px; margin:0 10px;}
